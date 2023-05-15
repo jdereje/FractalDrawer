@@ -35,7 +35,7 @@ Creating Fractal Designs in Java using OOP
 
 Contributors names and contact info
 
-ex. Jonathan Dereje --- https://www.linkedin.com/in/jonathandereje/
+  * Jonathan Dereje --- https://www.linkedin.com/in/jonathandereje/
 
 ## Version History
 * 0.1
